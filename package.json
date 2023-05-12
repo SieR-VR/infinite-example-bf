@@ -1,0 +1,17 @@
+{
+  "name": "infinite-example-bf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && infinite ./hello_world.bf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@1.22.19",
+  "dependencies": {
+    "infinite-lang": "*"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "baseUrl": ".",
+        "declaration": true,
+        "outDir": "./lib"
+    },
+    "exclude": ["./node_modules", "./lib"]
+}
